@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b615c1ce.css",
+    "main.js": "/static/js/main.5bf35347.js",
+    "static/js/787.ae0d8d37.chunk.js": "/static/js/787.ae0d8d37.chunk.js",
+    "static/media/novena_diablos.png": "/static/media/novena_diablos.f762e09ca764a59060b8.png",
+    "static/media/perfil.jfif": "/static/media/perfil.62f1b826565fd1fc52ea.jfif",
+    "static/media/calculadora.png": "/static/media/calculadora.365c095e445899fd77e8.png",
+    "static/media/css.png": "/static/media/css.5a208110ea093e1df2ee.png",
+    "index.html": "/index.html",
+    "main.b615c1ce.css.map": "/static/css/main.b615c1ce.css.map",
+    "main.5bf35347.js.map": "/static/js/main.5bf35347.js.map",
+    "787.ae0d8d37.chunk.js.map": "/static/js/787.ae0d8d37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b615c1ce.css",
+    "static/js/main.5bf35347.js"
+  ]
+}
